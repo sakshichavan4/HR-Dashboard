@@ -1,6 +1,7 @@
 # HR-Dashboard
 
 Introduction
+
 In today’s fast-paced corporate world, employees are the heart of any organization. Understanding what keeps them motivated—or what makes them leave—is essential to building a thriving workplace. That’s where data steps in.
 
 This HR Analytics Dashboard is more than just numbers and charts; it’s a story about the workforce. It highlights patterns, reveals challenges, and provides actionable insights to help organizations not only retain talent but also keep employees happy and engaged. Let’s dive into the story the data tells!
